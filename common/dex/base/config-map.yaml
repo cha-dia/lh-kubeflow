@@ -24,12 +24,6 @@ data:
       # FIXME: Use hashFromEnv instead
       username: user
       userID: "15841185641784"
-    - email: brandon.russell@janusresearch.com
-      hash: $2b$12$iPcYBShssfpUmwBK0vlsv.BtTA0atW9TqK62s1D9DnBukbwgRyej.
-      # https://github.com/dexidp/dex/pull/1601/commits
-      # FIXME: Use hashFromEnv instead
-      username: brandon.russell
-      userID: "7aa75054-db0a-11ed-afa1-0242ac120002"
     staticClients:
     # https://github.com/dexidp/dex/pull/1664
     - idEnv: OIDC_CLIENT_ID
